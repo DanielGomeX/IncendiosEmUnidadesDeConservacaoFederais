@@ -37,10 +37,11 @@
 
   <div class="container">
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-absolute fixed-top navbar-transparent">
+    <nav class="navbar navbar-expand-lg navbar-absolute fixed-top  navbar-light
+     bg-light">
       <div class="container-fluid">
         <div class="navbar-wrapper">
-          <a class="navbar-brand">Dashboard Queimadas no Brasil</a>
+          <a class="navbar-brand" style="color: #66615B">Dashboard Queimadas no Brasil</a>
         </div>
       </div>
     </nav>
