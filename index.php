@@ -95,7 +95,7 @@
         <div class="col-md-6">
           <div class="card ">
             <div class="card-header ">
-              <h5 class="card-title">Queimadas por Unidades de Conservação</h5>
+              <h5 class="card-title">Áreas queimadas por Unidades de Conservação</h5>
               <p class="card-category">Dados de 2018</p>
             </div>
             <div class="card-body ">
@@ -113,7 +113,7 @@
         <div class="col-md-6">
           <div class="card ">
             <div class="card-header ">
-              <h5 class="card-title">Queimadas nos ultimos 7 anos</h5>
+              <h5 class="card-title">Áreas queimadas nos ultimos 7 anos</h5>
               <p class="card-category">Dados de 2018 á 2012</p>
             </div>
             <div class="card-body ">
