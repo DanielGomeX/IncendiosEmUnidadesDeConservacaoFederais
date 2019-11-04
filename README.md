@@ -24,8 +24,6 @@ GROUP BY bioma_referencial
     <tr>
       <td>Amazônia</td>
       <td>155.034</td>
-      <td>51.2821</td>
-      <td>16.284.372</td>
     </tr>
     <tr>
       <td>Caatinga</td>
