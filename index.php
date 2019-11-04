@@ -55,7 +55,7 @@
         <div class="col-md-6">
           <div class="card ">
             <div class="card-header ">
-              <h5 class="card-title">Áreas queimadas por Biomas</h5>
+              <h5 class="card-title">Queimadas por Biomas</h5>
               <p class="card-category">Dados de 2018</p>
             </div>
             <div class="card-body ">
@@ -73,7 +73,7 @@
         <div class="col-md-6">
           <div class="card ">
             <div class="card-header ">
-              <h5 class="card-title">Áreas queimadas por coordenação regional</h5>
+              <h5 class="card-title">Queimadas por coordenação regional</h5>
               <p class="card-category">Dados de 2018</p>
             </div>
             <div class="card-body ">
