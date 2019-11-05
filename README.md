@@ -1,7 +1,6 @@
 
 # 
-O intuito deste projeto é tentar extrair informações de um conjunto de dados sobre queimadas no Brasil. <br>
-Fonte dos dados: Dados públicos
+O intuito deste projeto foi consumir dados abertos sobre queimadas no Brasil, analisar esses dados e criar um Dashboard para apresentar de forma elegante e simples as informações extraídas! 
 
 # Biomas que mais sofreram queimadas em 2018
 
