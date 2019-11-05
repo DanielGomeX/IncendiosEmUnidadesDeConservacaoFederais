@@ -95,5 +95,5 @@ GROUP BY coordenacao_regional ORDER BY media DESC
   </tbody>
 </table>
 
-# Dashboard para sumarizar as informações mineradas no Dataset
+# Dashboard: Sumarização das informações extraídas
 <img src="https://raw.githubusercontent.com/valdiney/IncendiosEmUnidadesDeConservacaoFederais/master/assets/img/img_do_dashboard.png"/>
