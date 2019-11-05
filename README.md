@@ -17,7 +17,7 @@ GROUP BY bioma_referencial
   <thead>
     <tr>
       <th>Bioma Referencial</th>
-      <th>Queimadas</th>
+      <th>Média</th>
     </tr>
   </head>
   <tbody>
@@ -52,11 +52,15 @@ GROUP BY coordenacao_regional ORDER BY media DESC
 <table>
   <thead>
     <tr>
-      <th>CR1 Porto Velho/RO</th>
-      <th>28.2051</th>
+      <th>Coordenação regional</th>
+      <th>Média</th>
     </tr>
   </head>
   <tbody>
+    <tr>
+      <td>CR1 Porto Velho/RO</td>
+      <td>28.2051</td>
+    </tr>
     <tr>
       <td>CR11 Lagoa Santa/MG</td>
       <td>17.9487</td>
