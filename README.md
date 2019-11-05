@@ -1,6 +1,7 @@
 
 # 
-O intuito deste projeto foi consumir dados abertos sobre queimadas no Brasil, analisá-los e criar um Dashboard para apresentar de forma elegante e simples as informações extraídas!  
+O intuito deste projeto foi consumir dados abertos sobre queimadas no Brasil, analisá-los e criar um Dashboard para apresentar de forma elegante e simples as informações extraídas! <br>
+Pegamos os dados em formato CSV. Importamos para o Mysql e trabalhamos com o SQL como linguagem de consulta e manipulação. 
 
 # Biomas que mais sofreram queimadas em 2018
 
