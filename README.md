@@ -23,19 +23,19 @@ GROUP BY bioma_referencial
   <tbody>
     <tr>
       <td>Amazônia</td>
-      <td>155.034</td>
+      <td>51.2821</td>
     </tr>
     <tr>
       <td>Caatinga</td>
-      <td>31.003</td>
+      <td>10.2564</td>
     </tr>
     <tr>
       <td>Cerrado</td>
-      <td>452.110</td>
+      <td>28.2051</td>
     </tr>
     <tr>
       <td>Mata Atlântica</td>
-      <td>1.036</td>
+      <td>10.2564</td>
     </tr>
   </tbody>
 </table>
