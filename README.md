@@ -104,4 +104,4 @@ Dashboard criado com HTML5, CSS3, JAVASCRIT com CHARTJS. Foi utilizado a linguag
 <img src="https://raw.githubusercontent.com/valdiney/IncendiosEmUnidadesDeConservacaoFederais/master/assets/img/img_do_dashboard.png"/>
 
 # Diagrama simples de execução
-<img scr="https://github.com/valdiney/IncendiosEmUnidadesDeConservacaoFederais/blob/master/Diagrama1.png"/>
+<img scr="https://raw.githubusercontent.com/valdiney/IncendiosEmUnidadesDeConservacaoFederais/master/Diagrama1.png"/>
