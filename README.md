@@ -100,6 +100,6 @@ GROUP BY coordenacao_regional ORDER BY media DESC
 </table>
 
 # Dashboard: Sumarização das informações extraídas
-Dashboard criado com HTML5, CSS3, JAVASCRIT com CHARTJS. Foi utilizado a linguagem PHP para a coneção com o banco e execução das Querys...
+Dashboard criado com HTML5, CSS3, JAVASCRIT com CHARTJS. Foi utilizado a linguagem PHP para a conexão com o banco e execução das Querys...
 
 <img src="https://raw.githubusercontent.com/valdiney/IncendiosEmUnidadesDeConservacaoFederais/master/assets/img/img_do_dashboard.png"/>
